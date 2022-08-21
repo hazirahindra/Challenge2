@@ -1,7 +1,7 @@
 # Challenge 2: Vehicle Type Identification</p>
 
 <h1><p align="center">Person Counting/Tracking using YOLOv5 + DeepSORT + PyTorch</p>
-<p align="center">:princess: :man: :cop: :girl: :boy:</p>
+<p align="center">🚔 🚘 🚊 🚖</p>
 </h1>
 <p align="center">A project for classifying the vehicle as EV or non-EV using <code>CNN</code> for model training and <code>Tensorflow Keras</code> as the model framework </p>
 <p align="center"><img src="./data/images/result.gif"/></p>
