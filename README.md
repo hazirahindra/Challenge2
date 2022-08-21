@@ -8,7 +8,7 @@
 
 ## Objective
 By the end of the challenge, your machine learning model should:
-1. Be able to recognize whether a car is an EV/non-EV when given an images
+1. Be able to recognize whether a car is an EV/non-EV when given an image
 
 ## Model
 Download the weight model [here](https://drive.google.com/file/d/1f7zMADBvtre6t3QzLCxcZ9jxN7KUvw1b/view?usp=sharing)
