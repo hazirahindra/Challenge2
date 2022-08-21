@@ -1,0 +1,7 @@
+Electric Vehicle 
+1. Swift 
+2. Audi
+
+Non-Electric Vehicle 
+1. Toyota Innova 
+2. Rolls Royce 
