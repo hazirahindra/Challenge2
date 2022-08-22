@@ -10,6 +10,13 @@
 By the end of the challenge, your machine learning model should:
 1. Be able to recognize whether a car is an EV/non-EV when given an image
 
+## Getting Started
+There will have two types of classification which are: 
+| EV            | nonEV            | 
+| ------------- | -----------------| 
+| Swift         | Toyota Innova    |
+| Audi          | Rolls Royce      | 
+
 ## Model
 Download the weight model [here](https://drive.google.com/file/d/1tp4kaU2D6Ds7q3XIBdfwqKVBE0QvMg29/view?usp=sharing)
 
