@@ -26,18 +26,3 @@ if label<1:
 else:
     print('The car is not Electrical Vehicle')
    
-
-
-
-# # create a batch of size 1 [N,H,W,C]
-# img = np.expand_dims(img, axis=0)
-# prediction = model.predict(img, batch_size=None,steps=1) #gives all class prob.
-# if(prediction[:,:]>0.5):
-#     value ='EV :%1.2f'%(prediction[0,0])
-#     plt.text(20, 62,value,color='red',fontsize=18,bbox=dict(facecolor='white',alpha=0.8))
-# else:
-#     value ='nonEV :%1.2f'%(1.0-prediction[0,0])
-#     plt.text(20, 62,value,color='red',fontsize=18,bbox=dict(facecolor='white',alpha=0.8))
-
-# plt.imshow(image)
-# plt.show()
