@@ -12,7 +12,7 @@ By the end of the challenge, your machine learning model should:
 
 ## Getting Started
 There will have two types of classification which are: 
-| EV            | nonEV            | 
+| Electric Vehicle            | Electric Vehicle            | 
 | ------------- | -----------------| 
 | Swift         | Toyota Innova    |
 | Audi          | Rolls Royce      | 
